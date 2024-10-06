@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import QuoteCard from "../components/QuoteCard";
-import SavedQuotes from "../components/savedQuotes";
+import SavedQuotes from "../components/SavedQuotes";
 import "./App.css";
 
 const App = () => {
